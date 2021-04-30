@@ -1,2 +1,5 @@
-# clube-do-livro-dev
-Repo pra organizar um clube do Livro entre Devs
+# ClubeDoLivroDev
+
+Um clube do Livro pra Devs
+
+Ler um livro Técnico a cada dois meses em grupo, e gerar discussões.
