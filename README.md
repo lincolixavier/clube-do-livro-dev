@@ -1,7 +1,7 @@
 # ClubeDoLivroDev
 
 Um Clube do Livro pra Devs
-![Ler,Ler,Ler](https://ibb.co/Z1DdP0R)
+![Ler,Ler,Ler](https://i.ibb.co/935nL7m/Logo-clube-do-livro-dev.png)
 
 
 ### Objetivos 
