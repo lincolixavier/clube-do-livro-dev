@@ -15,5 +15,8 @@ Um Clube do Livro pra Devs
  - Mesmo livro em Inglês e Português podem ter issues diferentes.
 
 
+Para entrar no grupo do Whatsapp me manda uma DM no [Twitter](https://twitter.com/lincolixavier) =D
+
+
 
 
