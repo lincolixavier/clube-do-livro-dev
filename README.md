@@ -1,6 +1,8 @@
 # ClubeDoLivroDev
 
 Um Clube do Livro pra Devs
+![Ler,Ler,Ler](https://ibb.co/Z1DdP0R)
+
 
 ### Objetivos 
  - Ler um Livro Técnico a cada dois meses em grupo
