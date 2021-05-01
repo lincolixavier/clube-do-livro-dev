@@ -8,7 +8,7 @@ Um Clube do Livro pra Devs
  - Ler um Livro Técnico a cada dois meses em grupo
  - Ler entre 10 a 15 páginas por dia
  - Discutir a leitura nas Issues e/ou Grupo do whatsapp
- - Fazer uma call em grupo a acada início de leitura.
+ - Fazer uma call em grupo a cada início de leitura.
 
 ### Livros nas Issues
  - Nome do livro
