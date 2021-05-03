@@ -10,11 +10,16 @@ Um Clube do Livro pra Devs
  - Discutir a leitura nas Issues e/ou Grupo do whatsapp
  - Fazer uma call em grupo a cada início de leitura.
 
-### Livros nas Issues
+### Livros nas [Discussions](https://github.com/lincolixavier/clube-do-livro-dev/discussions)
  - Nome do livro
  - Descrição
  - Link pra compra/download
  - Mesmo livro em Inglês e Português podem ter issues diferentes.
+
+### Issues
+- Observações
+- Sugestões
+- Dúvidas
 
 
 Para entrar no grupo do Whatsapp me manda uma DM no [Twitter](https://twitter.com/lincolixavier) =D
