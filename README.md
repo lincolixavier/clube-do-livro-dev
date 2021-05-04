@@ -17,6 +17,7 @@ Um Clube do Livro pra Devs
  - Mesmo livro em Inglês e Português podem ter issues diferentes.
 
 ### Issues
+- Votação pra escolha do livro 
 - Observações
 - Sugestões
 - Dúvidas
