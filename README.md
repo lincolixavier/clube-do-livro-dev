@@ -14,7 +14,7 @@ Um Clube do Livro pra Devs
  - Nome do livro
  - Descrição
  - Link pra compra/download
- - Mesmo livro em Inglês e Português podem ter issues diferentes.
+ - Mesmo livro em Inglês e Português podem estar na mesma Discussion.
 
 ### Issues
 - Votação pra escolha do livro 
