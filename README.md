@@ -1,6 +1,6 @@
 # ClubeDoLivroDev
 
-Um Clube do Livro é uma lugar de leitura coletiva, vamos ler, analisar, discutir e questionar a mesma obra juntos!
+Um Clube do Livro é um lugar de leitura coletiva. Vamos ler, analisar, discutir e questionar a mesma obra juntos!
 
 ![Ler,Ler,Ler](https://i.ibb.co/935nL7m/Logo-clube-do-livro-dev.png)
 
