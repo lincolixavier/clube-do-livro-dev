@@ -1,6 +1,7 @@
 # ClubeDoLivroDev
 
-Um Clube do Livro pra Devs
+Um Clube do Livro é uma lugar de leitura coletiva, vamos ler, analisar, discutir e questionar a mesma obra juntos!
+
 ![Ler,Ler,Ler](https://i.ibb.co/935nL7m/Logo-clube-do-livro-dev.png)
 
 
@@ -24,6 +25,8 @@ Um Clube do Livro pra Devs
 
 
 Para entrar no grupo do Whatsapp me manda uma DM no [Twitter](https://twitter.com/lincolixavier) =D
+
+> Disclaimer: Não somos um repositório de livros.
 
 
 
