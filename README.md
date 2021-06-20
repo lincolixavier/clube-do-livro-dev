@@ -5,7 +5,7 @@ E esse aqui, focado em literatura sobre Desenvolvimento de Software.
 
 ![Ler,Ler,Ler](https://i.ibb.co/935nL7m/Logo-clube-do-livro-dev.png)
 
-> Leitura Atual: O programador Pragmático
+> Leitura Atual: O Programador Pragmático
 
 
 ### Objetivos 
