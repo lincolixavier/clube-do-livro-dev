@@ -5,8 +5,10 @@ E esse aqui, focado em literatura sobre Desenvolvimento de Software.
 
 ![Ler,Ler,Ler](https://i.ibb.co/935nL7m/Logo-clube-do-livro-dev.png)
 
-> Leitura Atual: O Programador Pragmático
+> Leitura Atual: Como ser um Programador Melhor: um Manual Para Programadores que se Importam com Código 
 
+### Livros Lidos ✅
+- [O Programador Pragmático](https://amzn.to/3llMYhO) 
 
 ### Objetivos 
  - Ler um Livro Técnico a cada dois meses em grupo
