@@ -20,6 +20,7 @@ E esse aqui, focado em literatura sobre Desenvolvimento de Software.
  - Nome do livro
  - Descrição
  - Link pra compra/download
+ - Link pra download ( Domínio público, não pirataria)
  - Mesmo livro em Inglês e Português podem estar na mesma Discussion.
 
 ### Issues
