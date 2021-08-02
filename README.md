@@ -13,10 +13,10 @@ E esse aqui, focado em literatura sobre Desenvolvimento de Software.
 ### Objetivos 
  - Ler um Livro Técnico a cada dois meses em grupo
  - Ler entre 10 a 15 páginas por dia
- - Discutir a leitura nas Discussions aqui no Githhub e/ou Grupo do whatsapp
+ - Discutir a leitura nas Discussions aqui no GitHub e/ou Grupo do whatsapp
  - Fazer uma call em grupo a cada início de leitura.
 
-### Livros nas [Discussions](https://github.com/lincolixavier/clube-do-livro-dev/discussions)
+### Livros nas [Discussions](https://github.com/pilhacheia/clube-do-livro-dev/discussions)
  - Nome do livro
  - Descrição
  - Link pra compra/download
@@ -28,11 +28,6 @@ E esse aqui, focado em literatura sobre Desenvolvimento de Software.
 - Sugestões
 - Dúvidas
 
-
 Para entrar no grupo do Whatsapp me manda uma DM no [Twitter](https://twitter.com/lincolixavier) =D
 
 > Disclaimer: Não somos um repositório de livros.
-
-
-
-
