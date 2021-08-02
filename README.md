@@ -19,7 +19,7 @@ E esse aqui, focado em literatura sobre Desenvolvimento de Software.
 ### Livros nas [Discussions](https://github.com/lincolixavier/clube-do-livro-dev/discussions)
  - Nome do livro
  - Descrição
- - Link pra compra/download
+ - Link pra compra
  - Link pra download ( Domínio público, não pirataria)
  - Mesmo livro em Inglês e Português podem estar na mesma Discussion.
 
