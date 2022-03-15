@@ -5,11 +5,12 @@ E esse aqui, focado em literatura sobre Desenvolvimento de Software.
 
 ![Ler,Ler,Ler](https://i.ibb.co/935nL7m/Logo-clube-do-livro-dev.png)
 
-### Leitura Atual: The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
+### Leitura Atual: Clean Code
 
 ### Livros Lidos ✅
 - [O Programador Pragmático](https://amzn.to/3llMYhO) Junho-Julho/2021
 - [Como ser um Programador Melhor: um Manual Para Programadores que se Importam com Código](https://amzn.to/3Bq4iHG) Agosto-Setembro/2021
+- [The Annotated Turing](https://amzn.to/3Jkxtj9) Novembro-Dezembro/2021
 
 ### Objetivos 
  - Ler um Livro Técnico a cada dois meses em grupo
