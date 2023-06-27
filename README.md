@@ -5,12 +5,13 @@ E esse aqui, focado em literatura sobre Desenvolvimento de Software.
 
 ![Ler,Ler,Ler](https://i.ibb.co/935nL7m/Logo-clube-do-livro-dev.png)
 
-### Leitura Atual: Clean Code
+### Leitura Atual: [A Philosophy of Software Design](https://amzn.to/3piTavp) 
 
 ### Livros Lidos ✅
-- [O Programador Pragmático](https://amzn.to/3llMYhO) Junho-Julho/2021
-- [Como ser um Programador Melhor: um Manual Para Programadores que se Importam com Código](https://amzn.to/3Bq4iHG) Agosto-Setembro/2021
-- [The Annotated Turing](https://amzn.to/3Jkxtj9) Novembro-Dezembro/2021
+- [O Programador Pragmático](https://amzn.to/3llMYhO) 
+- [Como ser um Programador Melhor: um Manual Para Programadores que se Importam com Código](https://amzn.to/3Bq4iHG) 
+- [The Annotated Turing](https://amzn.to/3Jkxtj9)
+
 
 ### Objetivos 
  - Ler um Livro Técnico a cada dois meses em grupo
@@ -18,7 +19,7 @@ E esse aqui, focado em literatura sobre Desenvolvimento de Software.
  - Discutir a leitura nas Discussions aqui no GitHub e/ou Grupo do whatsapp
  - Fazer uma call em grupo a cada início de leitura.
 
-### Livros nas [Discussions](https://github.com/pilhacheia/clube-do-livro-dev/discussions)
+### Livros nas [Discussions](https://github.com/lincolixavier/clube-do-livro-dev/discussions)
  - Nome do livro
  - Descrição
  - Link pra compra
@@ -33,4 +34,4 @@ E esse aqui, focado em literatura sobre Desenvolvimento de Software.
 
 Para entrar no grupo do Whatsapp me manda uma DM no [Twitter](https://twitter.com/lincolixavier) =D
 
-> Disclaimer: Não somos um repositório de livros.
+> Disclaimer: Não se trata de um repositório de livros.
