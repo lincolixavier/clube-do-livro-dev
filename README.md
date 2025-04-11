@@ -1,4 +1,4 @@
-# ClubeDoLivroDev
+# Clube Do Livro ${Dev}
 
 Um Clube do Livro é um lugar de leitura coletiva. Vamos ler, analisar, discutir e questionar a mesma obra juntos!
 E esse aqui, focado em literatura sobre Desenvolvimento de Software. 
